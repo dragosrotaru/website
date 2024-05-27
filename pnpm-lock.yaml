@@ -38,8 +38,8 @@ dependencies:
 
 devDependencies:
   '@types/vivus':
-    specifier: ^0.4.4
-    version: 0.4.4
+    specifier: ^0.4.7
+    version: 0.4.7
 
 packages:
 
@@ -271,8 +271,8 @@ packages:
     resolution: {integrity: sha512-5cJ8CB4yAx7BH1oMvdU0Jh9lrEXyPkar6F9G/ERswkCuvP4KQZfZkSjcMbAICCpQTN4OuZn8tz0HiKv9TGZgrQ==}
     dev: false
 
-  /@types/vivus@0.4.4:
-    resolution: {integrity: sha512-eE7dV8JjjkLpTvZKQomknJssib0A1kCkC7fG1NMVSp/4Am/gjNsn9o0XtZXNmXJYHVddHbHL/M0OJIVhoVioeA==}
+  /@types/vivus@0.4.7:
+    resolution: {integrity: sha512-c0gE1Wd5Jv3752DpoHGY4pTpMfpwE4x+eb9vL1uUrYo0QDUPF/Ty1Dca3gCFnW5E80umraDzpsHi7gWPKgx7WA==}
     dev: true
 
   /@typescript-eslint/parser@5.59.9(eslint@8.42.0)(typescript@5.1.3):
